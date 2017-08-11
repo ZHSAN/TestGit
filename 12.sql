@@ -59,4 +59,5 @@ insert into Sys_Region (REGION_KEY, REGION_NAME, REGION_CODE, PARENT_REGION_CODE
 values ('402824815d78d088015d78e015a80003', '保安大队', '144', '8a4881213c2d74f8013c36e7eb640017', null, null, null, '测试', '0', null);
 
 select * from Sys_Region;
+select count(1) from Sys_Region;
 prompt Done.
