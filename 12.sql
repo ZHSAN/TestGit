@@ -58,4 +58,5 @@ values ('402824815d7278c6015d7284064b0002', '二哈军团', null, '8a4881213baba
 insert into Sys_Region (REGION_KEY, REGION_NAME, REGION_CODE, PARENT_REGION_CODE, IS_END, REGION_LEVEL, REGION_SHOT_NAME, REGION_REMARK, IS_FLAG, REGION_SEQ_NUM)
 values ('402824815d78d088015d78e015a80003', '保安大队', '144', '8a4881213c2d74f8013c36e7eb640017', null, null, null, '测试', '0', null);
 
+select * from Sys_Region;
 prompt Done.
