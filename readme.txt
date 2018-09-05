@@ -14,3 +14,4 @@ add one card new file.
 you are stupid;
 
 >>>>>>> dev
+start dev;
