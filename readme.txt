@@ -6,3 +6,4 @@ My stupid boss still prefers SVN.
 Creating a new branch is quick and simple.
 new dev.
 add one card new file.
+you are stupid;
